@@ -1,0 +1,16 @@
+.product {
+    margin: 5px 0;
+    padding: 20px;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.product:hover {
+background-color: lightgreen;
+}
+
+.selected {
+border-color: green;
+background-color: lightgray;
+}
